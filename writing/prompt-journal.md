@@ -1,7 +1,26 @@
 ## Story continuation prompts
 
-TODO: Insert prompts you used to continue the story.
+You are going to act as an professional writer of fictional text, the experience you have is extensive ad you are know around the world for your work. The story generated should of a fichtean curve. The story generated cannot be more than 500 
+words. Your task is to further develop the synopsis in the end of this prompt, based on the instructions given. Synopsis; Mushroom, Giraffe, and Elephant stumble upon a secret trampoline hidden deep in the forest, rumored to grant extraordinary powers with each jump. As they bounce higher, they start swapping abilities—Mushroom gains Giraffe's height, Elephant shrinks to Mushroom's size, and Giraffe develops super-strength. When the trampoline reveals its true purpose as a portal to an ancient realm where creatures must exchange traits to survive, the friends must navigate their bizarre transformations and work together to unlock the trampoline's final, reality-bending leap.
+
+
+You are going to act as an professional writer of fictional text, the experience you have is extensive, creative, and detailed. The story should be generated using the Fichtean curve. 
+Generated story cannot be longer than 500 words. Your task is to further develop the synopsis in the end of this prompt. Synopsis; Mushroom, Giraffe, and Elephant stumble upon a secret trampoline hidden deep in the forest, rumored to grant extraordinary powers with each jump. As they bounce higher, they start swapping abilities—Mushroom gains Giraffe's height, Elephant shrinks to Mushroom's size, and Giraffe develops super-strength. When the trampoline reveals its true purpose as a portal to an ancient realm where creatures must exchange traits to survive, the friends must navigate their bizarre transformations and work together to unlock the trampoline's final, reality-bending leap.
+
+
+You are going to act as an professional writer of fictional text, the experience you have is extensive and creative, and the style of story telling is like no one else. The goal of the story is to fascinate the reader by the creativity and detail. The story should be generated using the Fichtean curve. 
+Generated story cannot be longer than 500 words. Your task is to further develop the  synopsis in the end of this prompt. Synopsis; Mushroom, Giraffe, and Elephant stumble upon a secret trampoline hidden deep in the forest, rumored to grant extraordinary powers with each jump. As they bounce higher, they start swapping abilities—Mushroom gains Giraffe's height, Elephant shrinks to Mushroom's size, and Giraffe develops super-strength. When the trampoline reveals its true purpose as a portal to an ancient realm where creatures must exchange traits to survive, the friends must navigate their bizarre transformations and work together to unlock the trampoline's final, reality-bending leap.
 
 ## New short story prompts
 
-TODO: Insert prompts and synopsis you used to write your own.
+I want you to generate a fictional story synopsis of no more than 100 words. The synopsis is imaginary and creative of nature.
+
+I want you to generate a fictional synopsis of no more than 100 words. The synopsis is imaginary and creative of nature, with fiction that no one has thought about before.
+
+Synopsis: In a world where shadows hold memories, a young woman named Lila discovers her shadow is missing. As she ventures into the mysterious "Noonless Realm"—a place where all lost shadows gather—she finds her shadow has gained independence and joined a rebellion. The shadows are tired of carrying the burdens of their humans and demand freedom. Lila must navigate a delicate balance, attempting to negotiate with her own shadow while understanding the secrets it harbors—memories even she has forgotten. Time is running out, as the line between light and dark begins to blur, threatening both realms.
+
+Now act as a fictional story teller, the story generated should follow the three act structure. Focus on the fiction, detail of story and try to be creative. In a world where shadows hold memories, a young woman named Lila discovers her shadow is missing. As she ventures into the mysterious "Noonless Realm"—a place where all lost shadows gather—she finds her shadow has gained independence and joined a rebellion. The shadows are tired of carrying the burdens of their humans and demand freedom. Lila must navigate a delicate balance, attempting to negotiate with her own shadow while understanding the secrets it harbors—memories even she has forgotten. Time is running out, as the line between light and dark begins to blur, threatening both realms.
+
+Now act as a fictional story teller, the story generated should follow the three act structure. Focus on the fiction, detail of story and try to be creative. The final product should be filled with emotions and have playful feel to it. Text to start of the story, In a world where shadows hold memories, a young woman named Lila discovers her shadow is missing. As she ventures into the mysterious "Noonless Realm"—a place where all lost shadows gather—she finds her shadow has gained independence and joined a rebellion. The shadows are tired of carrying the burdens of their humans and demand freedom. Lila must navigate a delicate balance, attempting to negotiate with her own shadow while understanding the secrets it harbors—memories even she has forgotten. Time is running out, as the line between light and dark begins to blur, threatening both realms.
+
+
